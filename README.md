@@ -7,3 +7,4 @@ This repository contains descriptions of various animals. Click on the links bel
 - [Tiger](Files/Tiger.md)
 - [Elephant](Files/Elephant.md)
 - [Dolphin](Files/Dolphin.md)
+- [Penguin](Files/Penguin.md)
